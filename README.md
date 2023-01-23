@@ -10,7 +10,7 @@ was then performed on the data to find underlying patterns, and visualized using
 libraries. Finally, predictions were made to categorize if a certain type of incident is a
 Larceny/Theft or not.
 
-##Objective
+## Objective
 
 By analyzing the crime dataset, we aimed to answer the following questions:
 a. Analyze crime patterns over months and identify the month with the highest number of
